@@ -31,7 +31,7 @@ mongoose.connect(URI, {
 
 app.get('/', (req, res) => {
     res.json({
-        msg: "Wasup mehn"
+        msg: "Wasup mahn"
     })
 })
 
